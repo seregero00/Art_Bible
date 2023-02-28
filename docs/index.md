@@ -134,7 +134,8 @@ This is where we will define the specifications related to:
 Often this part is overlooked, but it is very important that the art director checks that this is done in order to optimise the work.
 
 # Examples
-
+* [Matt Sanz - Technical and artistic guidlines for the desert and snow environments](https://www.artstation.com/artwork/nAYke)
+* [maxmaxmax - Art Bible](https://www.artstation.com/artwork/nYmGZ9)
 # General Advices
 
 Art Style: Try to choose a style in which you feel comfortable and which is possible for you to do according to your limits.
@@ -145,3 +146,9 @@ Avoid large blocks of text. Use images
 # References
 
 * [ Veerle Zandstra - Creating an Art Bible](https://discover.therookies.co/2020/07/20/creating-an-art-bible/)
+* [maxmaxmax - Art Bible](https://www.artstation.com/artwork/nYmGZ9)
+* [Laura Meijers - What is an art bible?](https://www.oleanderstudios.com/what-is-an-art-bible-examples-practical-tips/)
+* [Kshiraj Telang - Game Art Bible - Secret Sauce to Making Great Game Art](https://www.slideshare.net/kshiraj/game-art-bible-secret-sauce-to-making-great-game-art)
+* [Matt Sanz - Technical and artistic guidlines for the desert and snow environments](https://www.artstation.com/artwork/nAYke)
+* [Guillem Álava Burgueño - The Art Bible](https://willytrek19.github.io/ArtBible/)
+* [Pol Camacho - Art Bible](https://polcamacho.github.io/Art-Bible/)
