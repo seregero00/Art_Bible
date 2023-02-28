@@ -1,4 +1,4 @@
-# Audio Bible
+# Art Bible
 
 ## Table of contents
 
@@ -50,3 +50,18 @@ Within a project, art bibles have two main functions:
      - 9. Technical Guidelines
      
 **1. - Art Style**
+This is crucial for the understanding of the most important feelings of the game that the players should have while playing it and what the main direction of the project will be focused on. It will define the artistic focus of the game, which should be consistent across all elements. This may include:
+- Graphic style:
+  - 2D/2.5D/3D
+  - Realistic
+  - Stylized
+  - Cartoon
+  - PixelArt
+- Main Camera
+- Time Period
+- Atmosphere
+- Shapes
+- General Color Palettes
+- Materials & Textures
+- References
+The decisions made at this stage will determine the final look of the game, so it's a critical time to make important decisions about the art of the game.
