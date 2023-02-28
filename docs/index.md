@@ -119,5 +119,5 @@ It is important to define a style within the user interface. In this section, yo
 It is highly recommended to wireframe each interface that the player will interact with.
 
 
-![Wireframe UI](https://github.com/seregero00/Art_Bible_1/blob/main/docs/images/Wireframe Ui.png?raw=true)
+![Wireframe UI](https://github.com/seregero00/Art_Bible/blob/main/docs/images/Wireframe Ui.png?raw=true)
 **9. - Technical Guidelines**
