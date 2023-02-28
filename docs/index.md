@@ -23,6 +23,8 @@
 
 The Art Bible is the document that defines the artistic style of a videogame and sets the boundaries for that style, this document is created by the Art Directors before going into the production of the art, it is done just after the GDD when the mechanics are done. The art bible is the guide for the people who work on the project.
 
+![graph8](https://github.com/seregero00/Art_Bible/blob/main/docs/images/graph8.png?raw=true)
+
 ## Main Usage
 
 Within a project, art bibles have two main functions:
@@ -115,6 +117,8 @@ This is where you define the places the player will go through, such as dungeons
 **7. - Texture & Surface**
 
 This aspect is closely related to the colour treatment and involves specifying the desired texture type and level of detail. This section is used to guide artists on how to create props and ensure that they are consistent with the art style.
+
+![graph9](https://github.com/seregero00/Art_Bible/blob/main/docs/images/graph9.jpg?raw=true)
 
 **8. - User interface**
 
