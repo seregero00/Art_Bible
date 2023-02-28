@@ -74,7 +74,7 @@ This part of the art bible must contain everything related to the character, if 
 - Character Poses
 - Expressions of the character
 - Colour palette
-- Geight scale comparison
+- Height scale comparison
 - Clothing
 - Style
 - Animations
@@ -84,3 +84,14 @@ This part of the art bible must contain everything related to the character, if 
 This section of the Art Bible is very important because it sets the standard for the level of detail required in the game. It covers the differences in the level of detail required for the narrative, gameplay and user interface elements. It also outlines techniques for increasing and decreasing detail during the drawing process, as well as which specific elements must be detailed and which can be left at a lower level of detail.
 
 **4. - Camera**
+In this section it is necessary to decide what kind of cameras are going to be used in the different parts of the game, in particular in the 3D games. The aspects to be defined are:
+- Camera effects
+- Fields of view (Covers all scenarios)
+- Transitions
+
+**5. - Colour palette**
+This is where we decide which colour choices are appropriate for distinguishing scenes, objects and characters. The points to consider are:
+- Colour saturation
+- Tones
+- Hues
+It is important to explain why the choice of this saturation, hues, etc...
