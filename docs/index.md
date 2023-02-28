@@ -93,7 +93,7 @@ In this section it is necessary to decide what kind of cameras are going to be u
 **5. - Colour palette**
 
 This is where we decide which colour choices are appropriate for distinguishing scenes, objects and characters. The points to consider are:
-- saturation
+- Saturation
 - Tones
 - Hues
 
@@ -104,5 +104,20 @@ It is important to explain why the choice of this saturation, hues, etc...
 This is where you define the places the player will go through, such as dungeons, the lobby. The idea is to conceptualise what each location will look like and how it should make the player feel, adding references.
 
 **7. - Texture & Surface**
+
+This aspect is closely related to the colour treatment and involves specifying the desired texture type and level of detail. This section is used to guide artists on how to create props and ensure that they are consistent with the art style.
+
 **8. - User interface**
+
+It is important to define a style within the user interface. In this section, you will decide on a common style and decide on the following issues:
+- Fonts
+- Menus
+- In-game UI
+- Descriptions
+- Dialogue Boxes
+
+It is highly recommended to wireframe each interface that the player will interact with.
+
+
+![Wireframe UI](https://github.com/seregero00/Art_Bible/blob/main/docs/images/Wireframe Ui.png?raw=true)
 **9. - Technical Guidelines**
