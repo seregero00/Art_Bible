@@ -1,6 +1,6 @@
 # Audio Bible
 
-### - **Table of contents**:
+## Table of contents
 
      - 1. What is an Art Bible?
      - 2. Main Usage
