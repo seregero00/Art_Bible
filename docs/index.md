@@ -137,6 +137,7 @@ It is highly recommended to wireframe each interface that the player will intera
 ![graph1](https://github.com/seregero00/Art_Bible/blob/main/docs/images/graph1.png?raw=true)
 
 **9. - Technical Guidelines**
+
 This is where we will define the specifications related to:
 - Exporting formats
 - Image sizes
