@@ -4,7 +4,7 @@
 This page was generated for the Project II subject,under supervision of lecturer [Pedro Omedas](https://github.com/pomedas). This page tries to explain how to create an Art Bible.
 
 ## About Me
-This page has been written by [Sergio Corona Gómez]([http://github.com/IvanBSupc](https://github.com/seregero00)), student of [Videogame Design and Development in CITM of UPC](https://www.citm.upc.edu/esp/estudis/grau-videojocs-terrassa/).
+This page has been written by [Sergio Corona Gómez](https://github.com/seregero00)), student of [Videogame Design and Development in CITM of UPC](https://www.citm.upc.edu/esp/estudis/grau-videojocs-terrassa/).
 
 ## References 
 
