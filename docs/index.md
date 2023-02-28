@@ -153,9 +153,9 @@ Often this part is overlooked, but it is very important that the art director ch
 
 # General Advices
 
-Art Style: Try to choose a style in which you feel comfortable and which is possible for you to do according to your limits.
+- Art Style: Try to choose a style in which you feel comfortable and which is possible for you to do according to your limits.
 
-Avoid large blocks of text. Use images
+- Avoid large blocks of text. Use images
 
 
 # References
