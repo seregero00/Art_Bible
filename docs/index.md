@@ -5,6 +5,15 @@
       1. What is an Art Bible?
       2. Main Usage
       3. Content of an Art Bible
+            3.1 Art Style
+            3.2 Character Art
+            3.3 Level of detail(LOD)
+            3.4 Camera
+            3.5 Color Palette
+            3.6 Environment/atmosphere
+            3.7 Texture & Surface
+            3.8 User interface
+            3.9 Technical Guidelines
       4. Examples
       5. Applications to our project
       6. Task
