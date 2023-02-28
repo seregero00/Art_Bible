@@ -157,7 +157,6 @@ Often this part is overlooked, but it is very important that the art director ch
 
 - Avoid large blocks of text. Use images
 
-
 # References
 
 * [ Veerle Zandstra - Creating an Art Bible](https://discover.therookies.co/2020/07/20/creating-an-art-bible/)
