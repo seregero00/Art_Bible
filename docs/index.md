@@ -26,18 +26,17 @@ The Art Bible is the document that defines the artistic style of a videogame and
 
 ## Main Usage
 
-The Art Bible functions are:
+Within a project, art bibles have two main functions:
+- Memory Aid
+  - Reference to consult for details about the project
+  - Maintain consistency through all the production process
+  - Keep cohesion between all the members
 - Communication
   - Tell about how the game will look like (and the reasons behind it)
   - Help the art department understand the art direction
   - Allow new members to be up to date with the team
   - **Marketing!** (Always have something to show)
-- Memory Aid
-  - Reference to consult for details about the project
-  - Maintain consistency through all the production process
-  - Keep cohesion between all the members
-  - 
-## What is an Art Bible?
+
 ## Content of an Art Bible
 
      - 1. Art Style
@@ -49,3 +48,5 @@ The Art Bible functions are:
      - 7. Texture & Surface
      - 8. User interface
      - 9. Technical Guidelines
+     
+**1. - Art Style**
