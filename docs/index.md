@@ -1,4 +1,4 @@
-# Audio Bible
+# Art Bible
 
 ## Table of contents
 
@@ -50,3 +50,59 @@ Within a project, art bibles have two main functions:
      - 9. Technical Guidelines
      
 **1. - Art Style**
+This is crucial for the understanding of the most important feelings of the game that the players should have while playing it and what the main direction of the project will be focused on. It will define the artistic focus of the game, which should be consistent across all elements. This may include:
+- Graphic style:
+  - 2D/2.5D/3D
+  - Realistic
+  - Stylized
+  - Cartoon
+  - PixelArt
+- Main Camera
+- Time Period
+- Atmosphere (Weather,Day,Night)
+- Shapes
+- General Color Palettes
+- Materials & Textures
+- References
+
+The decisions made at this stage will determine the final look of the game, so it's a critical time to make important decisions about the art of the game.
+
+**2. - Character Art**
+
+This part of the art bible must contain everything related to the character, if there are different characters, this part must contain all of them, clearly organised.If there are enemies, divide them by zones. Each character should contain:
+- Sketches
+- Character Poses
+- Expressions of the character
+- Colour palette
+- Height scale comparison
+- Clothing
+- Style
+- Animations
+
+**3. - Level of detail(LOD)**
+
+This section of the Art Bible is very important because it sets the standard for the level of detail required in the game. It covers the differences in the level of detail required for the narrative, gameplay and user interface elements. It also outlines techniques for increasing and decreasing detail during the drawing process, as well as which specific elements must be detailed and which can be left at a lower level of detail.
+
+**4. - Camera**
+
+In this section it is necessary to decide what kind of cameras are going to be used in the different parts of the game, in particular in the 3D games. The aspects to be defined are:
+- Camera effects
+- Fields of view (Covers all scenarios)
+- Transitions
+
+**5. - Colour palette**
+
+This is where we decide which colour choices are appropriate for distinguishing scenes, objects and characters. The points to consider are:
+- saturation
+- Tones
+- Hues
+
+It is important to explain why the choice of this saturation, hues, etc...
+
+**6. - Environment/Atmosphere**
+
+This is where you define the places the player will go through, such as dungeons, the lobby. The idea is to conceptualise what each location will look like and how it should make the player feel, adding references.
+
+**7. - Texture & Surface**
+**8. - User interface**
+**9. - Technical Guidelines**
