@@ -1,6 +1,7 @@
 # Art Bible
 I am [Sergio Corona Gómez](https://github.com/seregero00), student of Videogame Design and Development in CITM of UPC.
 This page was generated for the Project II subject,under supervision of lecturer [Pedro Omedas](https://github.com/pomedas). This page tries to explain how to create an Art Bible.
+#### Personal Recommendation: If you want to get a closer look at everything, it is recommended to zoom in to 125 %
 ## Table of contents
 
      - 1. What is an Art Bible?
