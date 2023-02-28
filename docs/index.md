@@ -78,6 +78,8 @@ This part of the art bible must contain everything related to the character, if 
 - Style
 - Animations
 
+![graph3](https://github.com/seregero00/Art_Bible/blob/main/docs/images/graph3.png?raw=true)
+
 **3. - Level of detail(LOD)**
 
 This section of the Art Bible is very important because it sets the standard for the level of detail required in the game. It covers the differences in the level of detail required for the narrative, gameplay and user interface elements. It also outlines techniques for increasing and decreasing detail during the drawing process, as well as which specific elements must be detailed and which can be left at a lower level of detail.
