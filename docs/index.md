@@ -64,6 +64,7 @@ This is crucial for the understanding of the most important feelings of the game
 - General Color Palettes
 - Materials & Textures
 - References
+
 The decisions made at this stage will determine the final look of the game, so it's a critical time to make important decisions about the art of the game.
 
 **2. - Character Art**
@@ -77,3 +78,9 @@ This part of the art bible must contain everything related to the character, if 
 - Clothing
 - Style
 - Animations
+
+**3. - Level of detail(LOD)**
+
+This section of the Art Bible is very important because it sets the standard for the level of detail required in the game. It covers the differences in the level of detail required for the narrative, gameplay and user interface elements. It also outlines techniques for increasing and decreasing detail during the drawing process, as well as which specific elements must be detailed and which can be left at a lower level of detail.
+
+**4. - Camera**
