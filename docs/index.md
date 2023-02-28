@@ -15,9 +15,8 @@
             3.8 User interface
             3.9 Technical Guidelines
      - 4. Examples
-     - 5. Applications to our project
-     - 6. Task
-     - 7. References
+     - 5. General Advices
+     - 6. References
 
 ****
 ## What is an Art Bible?
@@ -135,3 +134,14 @@ This is where we will define the specifications related to:
 Often this part is overlooked, but it is very important that the art director checks that this is done in order to optimise the work.
 
 # Examples
+
+# General Advices
+
+Art Style: Try to choose a style in which you feel comfortable and which is possible for you to do according to your limits.
+
+Avoid large blocks of text. Use images
+
+
+# References
+
+* [ Veerle Zandstra - Creating an Art Bible](https://discover.therookies.co/2020/07/20/creating-an-art-bible/)
