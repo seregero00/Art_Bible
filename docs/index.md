@@ -25,8 +25,6 @@ This page was generated for the Project II subject,under supervision of lecturer
 
 The Art Bible is the document that defines the artistic style of a videogame and sets the boundaries for that style, this document is created by the Art Directors before going into the production of the art, it is done just after the GDD when the mechanics are done. The art bible is the guide for the people who work on the project.
 
-![graph8](https://github.com/seregero00/Art_Bible/blob/main/docs/images/graph8.png?raw=true)
-
 ## Main Usage
 
 Within a project, art bibles have two main functions:
@@ -67,6 +65,8 @@ This is crucial for the understanding of the most important feelings of the game
 - General Color Palettes
 - Materials & Textures
 - References
+
+![graph8](https://github.com/seregero00/Art_Bible/blob/main/docs/images/graph8.png?raw=true)
 
 The decisions made at this stage will determine the final look of the game, so it's a critical time to make important decisions about the art of the game.
 
