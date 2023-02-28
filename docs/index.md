@@ -146,6 +146,7 @@ Often this part is overlooked, but it is very important that the art director ch
 # Examples
 * [Matt Sanz - Technical and artistic guidlines for the desert and snow environments](https://www.artstation.com/artwork/nAYke)
 * [maxmaxmax - Art Bible](https://www.artstation.com/artwork/nYmGZ9)
+
 # General Advices
 
 Art Style: Try to choose a style in which you feel comfortable and which is possible for you to do according to your limits.
