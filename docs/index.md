@@ -104,9 +104,13 @@ This is where we decide which colour choices are appropriate for distinguishing 
 
 It is important to explain why the choice of this saturation, hues, etc...
 
+![graph7](https://github.com/seregero00/Art_Bible/blob/main/docs/images/graph7.png?raw=true)
+
 **6. - Environment/Atmosphere**
 
 This is where you define the places the player will go through, such as dungeons, the lobby. The idea is to conceptualise what each location will look like and how it should make the player feel, adding references.
+
+![graph6](https://github.com/seregero00/Art_Bible/blob/main/docs/images/graph6.jpg?raw=true)
 
 **7. - Texture & Surface**
 
