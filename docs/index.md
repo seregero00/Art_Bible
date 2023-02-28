@@ -59,9 +59,21 @@ This is crucial for the understanding of the most important feelings of the game
   - PixelArt
 - Main Camera
 - Time Period
-- Atmosphere
+- Atmosphere (Weather,Day,Night)
 - Shapes
 - General Color Palettes
 - Materials & Textures
 - References
 The decisions made at this stage will determine the final look of the game, so it's a critical time to make important decisions about the art of the game.
+
+**2. - Character Art**
+
+This part of the art bible must contain everything related to the character, if there are different characters, this part must contain all of them, clearly organised.If there are enemies, divide them by zones. Each character should contain:
+- Sketches
+- Character Poses
+- Expressions of the character
+- Colour palette
+- Geight scale comparison
+- Clothing
+- Style
+- Animations
