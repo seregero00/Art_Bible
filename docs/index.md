@@ -151,8 +151,13 @@ This is where we will define the specifications related to:
 Often this part is overlooked, but it is very important that the art director checks that this is done in order to optimise the work.
 
 # Examples
+
 * [Matt Sanz - Technical and artistic guidlines for the desert and snow environments](https://www.artstation.com/artwork/nAYke)
 * [maxmaxmax - Art Bible](https://www.artstation.com/artwork/nYmGZ9)
+
+# Useful template
+
+* [Guillem Álava Burgueño - Art Bible Template](https://github.com/WillyTrek19/ArtBible/tree/main/templates)
 
 # General Advices
 
