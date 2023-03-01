@@ -15,3 +15,4 @@ This page has been written by [Sergio Corona Gómez](https://github.com/seregero
 * [Matt Sanz - Technical and artistic guidlines for the desert and snow environments](https://www.artstation.com/artwork/nAYke)
 * [Guillem Álava Burgueño - The Art Bible](https://willytrek19.github.io/ArtBible/)
 * [Pol Camacho - Art Bible](https://polcamacho.github.io/Art-Bible/)
+* [Ainhoa Díaz Ibarrondo - Proceso de creación de una Biblia de Arte para proyectos de animación 2D](https://chilemonos.cl/tesinas/PROCESO%20DE%20CREACION%20DE%20UNA%20BIBLIA%20DE%20ARTE%20PARA%20PROYECTOS%20DE%20ANIMACION%202D.pdf)

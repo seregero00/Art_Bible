@@ -151,8 +151,13 @@ This is where we will define the specifications related to:
 Often this part is overlooked, but it is very important that the art director checks that this is done in order to optimise the work.
 
 # Examples
+
 * [Matt Sanz - Technical and artistic guidlines for the desert and snow environments](https://www.artstation.com/artwork/nAYke)
 * [maxmaxmax - Art Bible](https://www.artstation.com/artwork/nYmGZ9)
+
+# Useful template
+
+* [Guillem Álava Burgueño - Art Bible Template](https://github.com/WillyTrek19/ArtBible/tree/main/templates)
 
 # General Advices
 
@@ -169,3 +174,5 @@ Often this part is overlooked, but it is very important that the art director ch
 * [Matt Sanz - Technical and artistic guidlines for the desert and snow environments](https://www.artstation.com/artwork/nAYke)
 * [Guillem Álava Burgueño - The Art Bible](https://willytrek19.github.io/ArtBible/)
 * [Pol Camacho - Art Bible](https://polcamacho.github.io/Art-Bible/)
+* [Ainhoa Díaz Ibarrondo - Proceso de creación de una Biblia de Arte
+para proyectos de animación 2D](https://chilemonos.cl/tesinas/PROCESO%20DE%20CREACION%20DE%20UNA%20BIBLIA%20DE%20ARTE%20PARA%20PROYECTOS%20DE%20ANIMACION%202D.pdf)
