@@ -158,6 +158,7 @@ Often this part is overlooked, but it is very important that the art director ch
 # Useful template
 
 * [Guillem Álava Burgueño - Art Bible Template](https://github.com/WillyTrek19/ArtBible/tree/main/templates)
+* [here](https://github.com/seregero00/Art_Bible/tree/main/docs/templates) in pptx
 
 # General Advices
 
